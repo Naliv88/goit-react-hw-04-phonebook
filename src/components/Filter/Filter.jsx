@@ -24,5 +24,5 @@ Filter.prototype = {
       number: PropTypes.number.isRequired,
     })
   ),
-  filter: PropTypes.func.isRequired,
+  // filter: PropTypes.func.isRequired,
 };
