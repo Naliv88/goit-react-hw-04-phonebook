@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { PropTypes } from 'react';
+// import { PropTypes } from 'react';
 import style from './ContactForm.module.css';
 
 function ContactForm({ onSubmit }) {
